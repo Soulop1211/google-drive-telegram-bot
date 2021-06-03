@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1735914981:AAHa4zfhExkdGyWacI7p4bmnSUInKn0HwkU"
+    APP_ID = "4021680"
+    API_HASH = "8e6965a8882cbd31ddaef9af339beb7d"
+    DATABASE_URL = "postgres://ruujvohzmyrpdm:8619ca2ddc3bb8f55db1db349c139cf68791a166024e0f6f55b402637c55a2b1@ec2-35-170-85-206.compute-1.amazonaws.com:5432/d17qsai3jilgb8"
+    SUDO_USERS = "91995646" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/moviesandseriesdrive"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
